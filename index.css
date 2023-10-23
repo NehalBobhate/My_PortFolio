@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar{
+	background-image: linear-gradient(to right,#780a0a,#991717,#cc3131,#e34646);
+	border: 2px dotted white ;
+	height: 40px;
+	color: white;
+}
+.myname{
+	font-size: 30px;
+	margin-top: 4px;	
+}
+.navitems{
+	list-style-type: none;
+	
+}
+
+.liItems{
+	float: left;
+	padding-left: 10px;
+
+}
+#items1{
+	padding-left: 670px;
+	 font-size: 20px;
+	 margin-top: 8px;
+}
+.items234{
+	padding-left: 30px;
+	font-size: 20px;
+    margin-top: 8px;
+}
+.div2{
+	border: 2px solid black;
+/*	height: 380px;*/
+}
+.photo{
+	height: 330px;
+	width: 330px;
+	margin:22px;
+	border: 2px solid red;
+}
+.bio{
+
+}
+.image{
+	border: 2px solid black;
+	height: 400px;
+	width: 400px;
+}
