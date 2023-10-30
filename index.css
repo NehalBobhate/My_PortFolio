@@ -2,6 +2,14 @@
 	margin: 0;
 	padding: 0;
 }
+html
+{
+	scroll-behavior: smooth;
+}
+{
+	transform: ;
+	
+}
 .navbar{
 	background-color: black;
 	background-image: linear-gradient(to right,);
@@ -85,6 +93,8 @@
 	width: 100%;
 	background-color:beige;
 }
+
+
 #abtimage{
 	padding-left: 50px;
 	padding-top: 50px;
